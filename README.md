@@ -8,8 +8,10 @@
 в переменной ```ani```:
 * параметр ```intertval```: слудует увеличить значение
 
-в функции ```new_condition()```
+в функции ```new_condition()```:
 * добавить парметр ```num_iterations=```, позволит увеличть скорость объекта
+
+Таким образом программа начнет работать быстрее.
 
 ![start_animation_fos.png](image%2Fstart_animation_fos.png)
 ![end_animation_fos.png](image%2Fend_animation_fos.png)
